@@ -120,7 +120,7 @@ Cloud & DevOps
 
 ### 📫 Connect
 
-* LinkedIn: Daniel Dass[www.linkedin.com/in/daniel-dass-m-646865184](#)
+* LinkedIn: Daniel Dass{](#)
 * GitHub: [Daniel Dass](#)
 
 ---
